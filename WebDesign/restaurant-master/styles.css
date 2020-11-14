@@ -1,0 +1,63 @@
+.nav{
+    border:1px solid rgba(0, 0, 0, 0.5);
+    border-width:1px 0;
+    list-style:none;
+    margin:10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding:0;
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color: white;
+}
+h1{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    color: white;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.maps{
+    margin: 20px;
+    margin-left: 250px;
+}
+#x{
+    border:1px solid rgba(0, 0, 0, 0.5);
+    border-width:1px 0;
+    list-style:none;
+    margin:10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 30px;
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 12px;    
+}
